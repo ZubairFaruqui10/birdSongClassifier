@@ -1,0 +1,10 @@
+3 models trained for 3 kinds of dataset
+3 models saved
+150k tsne feature are extracted and saved
+pca plot saved
+tsne plot saved
+
+
+save gradcam , lime , shap and lrp from both classes for few good images
+3 gradcams explanations for each kind of dataset to highlight that mixed method explanation is best
+find clusters manually (last task)
