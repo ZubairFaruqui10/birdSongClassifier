@@ -1,4 +1,6 @@
 checkpoints/
 saved_features/
 saved_models/
+saved_metrics
+
 .vscode/
